@@ -42,7 +42,7 @@ If you use this work in your research, please cite our [ICCV 2023 paper](https:/
 }
 ```
 
-## Code and Models
+## Code and Data
 
-Coming soon.
+Please visit [url](https://github.com/adobe-research/longmoment-detr) for the code and data.
 
