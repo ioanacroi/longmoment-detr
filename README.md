@@ -2,6 +2,10 @@
 
 This repository contains the code for `LongMoment-DETR`, a method designed for moment detection in long tutorial videos. Additionally, it houses two datasets: Behance Moment Detection (BMD) and YouTube Chapters (YTC), tailored for the same purpose. Our [ICCV 2023 paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Croitoru_Moment_Detection_in_Long_Tutorial_Videos_ICCV_2023_paper.pdf) ([supplement](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Croitoru_Moment_Detection_in_ICCV_2023_supplemental.pdf)) contains more details about this work.
 
+## Code and Data
+
+Please visit [longmoment-detr](https://github.com/adobe-research/longmoment-detr) for the code and data.
+
 ## Table of Contents
 
 - [BMD Dataset](#bmd-dataset)
@@ -41,8 +45,4 @@ If you use this work in your research, please cite our [ICCV 2023 paper](https:/
   year={2023}
 }
 ```
-
-## Code and Data
-
-Please visit [url](https://github.com/adobe-research/longmoment-detr) for the code and data.
 
